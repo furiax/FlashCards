@@ -1,12 +1,9 @@
 <h1>Flashcards</h1>
 <br>
 This application is a part of the www.thecsharpacademy.com roadmap. <br>
-Goal of the website is to become a (better) C# and .Net developper. Learning happens trough building projects yourself. <br>
-They give the assingments, each time a bit more difficult, and provide links to the right documentation and we the students give our best to delivere a working application.<br>
-When we are done they give our code a manual review in wich we recieve feedback.<br>
-It's a great place to learn so go check it out. <br>
 <br>
-<h2>Use:</h2>
+
+<h2>Goals:</h2>
 - This app allows the user to create stacks wich contains flashcards.<br>
 - The user can create/modify/delete both stacks and flashcards.<br>
 - There is also a study function were users can view the cards to study them, when they know the cards well enough the can test there knowledge troughout a quiz. <br>
@@ -25,7 +22,7 @@ It's a great place to learn so go check it out. <br>
 <br>
 <h2>Lessons learned: </h2>
 - Since this was our first app with SQL I needed to get familiar with using SQL Server Management Studio.<br>
-- Although the SQL code is simular to SQLite code there're diffrences I needed to learn.<br>
+- Although the SQL code is similar to SQLite code there are some differences.<br>
 - During this project I also learned alot of new things in SQL like using UNIQUE, how to autoincrement id's, CASCADE, PIVOT,.. So my knowledge of SQL has significently improved.<br>
 - Doing the extra challenge, PIVOTING, took some time but I managed to get it working.<br>
 - I also had to learn what DTO's were and how to apply them.<br>
